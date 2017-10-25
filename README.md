@@ -1,3 +1,3 @@
 # RPC-List
 
-A RPC list, check out the Wiki.
+An RPC list, check out the Wiki.
