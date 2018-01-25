@@ -2,4 +2,4 @@
 
 An RPC list, check out the Wiki.
 
-Updated on: **24th January 2018**
+Updated on: **25th January 2018**
