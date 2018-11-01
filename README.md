@@ -1,7 +1,7 @@
-# RPC-List
+# Packet List
 
-An RPC list, check out the Wiki.
+A list with SA-MP's packets documented. Check out the wiki.
 
-If you have any question or found something wrong in the list, open an issue.
+If you have any question or something is wrong in the list, open an issue.
 
-Updated on: **10th October, 2018**  
+Updated on: **01st November, 2018**  
