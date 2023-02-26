@@ -4,4 +4,4 @@ A list with SA-MP's packets documented. Check out the [wiki](https://github.com/
 
 If you have any question or something is wrong in the list, open an issue.
 
-Updated on: **18th February, 2022**
+Updated on: **26th February, 2023**
